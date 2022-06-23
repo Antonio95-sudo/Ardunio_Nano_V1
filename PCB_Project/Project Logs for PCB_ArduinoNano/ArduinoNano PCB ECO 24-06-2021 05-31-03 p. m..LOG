@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=VCC Pin=J2-VBUS
+Added Pin To Net: NetName=VUSB Pin=J2-VBUS
+Added Room: Name=ArduinoNano

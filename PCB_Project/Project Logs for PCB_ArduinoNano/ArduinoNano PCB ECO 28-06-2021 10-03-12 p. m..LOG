@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=RESET Pin=R1-1
+Removed Pin From Net: NetName=+5V Pin=R1-2
+Removed Pin From Net: NetName=D0/RX Pin=R1-3
+Removed Pin From Net: NetName=RX Pin=R1-4
+Removed Pin From Net: NetName=D1/TX Pin=R1-5
+Removed Pin From Net: NetName=TX Pin=R1-6
+Added Pin To Net: NetName=D0/RX Pin=R1-1
+Added Pin To Net: NetName=RX Pin=R1-2
+Added Pin To Net: NetName=D1/TX Pin=R1-3
+Added Pin To Net: NetName=TX Pin=R1-4
+Added Pin To Net: NetName=RESET Pin=R1-5
+Added Pin To Net: NetName=+5V Pin=R1-6
+Added Member To Class: ClassName=ArduinoNano Member=Component U1 Atmega328P
+Added Member To Class: ClassName=ArduinoNano Member=Component U2 FT232RL
+Added Room: Name=ArduinoNano

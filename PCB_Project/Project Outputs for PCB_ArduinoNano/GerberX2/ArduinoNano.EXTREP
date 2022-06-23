@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: ArduinoNano.GBR   28/07/2021  12:59:59 p. m.
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                Top Layer                               
+.gbr                Bottom Layer                            
+.gbr                Bottom Overlay                          
+.gbr                Bottom Solder                           
+.gbr                Bottom Paste                            
+.gbr                Top Overlay                             
+.gbr                Top Paste                               
+.gbr                Top Solder                              
+.gbr                Courtyard Top                           
+.gbr                Assembly Top                            
+.gbr                Courtyard Bottom                        
+.gbr                Mechanical 1                            
+.gbr                Assembly Bottom                         
+.gbr                Profile                                 
+------------------------------------------------------------------------------------------
